@@ -15,7 +15,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class Douban {
-  private static String path = "E:photo.html";
+  private static String path = "E:/photo.html";
 	private static String url = "http://www.douban.com/photos/album/64180843/";
 	private static String headerName = "User-Agent";
 	private static String headerValue = "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3";
